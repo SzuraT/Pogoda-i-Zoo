@@ -1,0 +1,10 @@
+{
+  "name": "SzuraT/projekt",
+  "autoload": {
+      "psr-0": { "": "src/" }
+  },
+  "require": {
+      "php": ">=5.3.3",
+	"kriswallsmith/buzz": "v0.15"
+  }
+}
